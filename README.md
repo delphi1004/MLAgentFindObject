@@ -8,5 +8,5 @@ The goal of this project is simple, there is a green target box, dark orange obs
 
 Here is the test result!
 
-[![Video Label](http://img.youtube.com/vi/7hp2_FedO6o-4/0.jpg)](https://youtu.be/7hp2_FedO6o-4?t=0s)
+[![Video Label](http://img.youtube.com/vi/7hp2_FedO6o/0.jpg)](https://youtu.be/7hp2_FedO6o?t=0s)
 
