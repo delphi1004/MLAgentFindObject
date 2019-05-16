@@ -6,7 +6,8 @@ Title : Finding an Object
 
 The goal of this project is simple, there is a green target box, dark orange obstacle, and blue ball. The ball finds a path to find a target box to avoid touch to the obstacle. I used ml-agents library provided by Unity Technologies. I have tested with three different scenarios, the first is to find a target without having an obstacle in a scene, and the second one is having an obstacle and the last one is to have an obstacle which is continuously moving. Each test as at least 60,000 steps which is almost 1 hours training. Once the blue ball finds a target then the positions of target, obstacle, and ball are reset. 
 
-Here is the test result!
+Here is youtube link of the test result! Please clink below image.
 
 [![Video Label](http://img.youtube.com/vi/7hp2_FedO6o/0.jpg)](https://youtu.be/7hp2_FedO6o?t=0s)
+
 
